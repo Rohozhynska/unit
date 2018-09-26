@@ -82,20 +82,20 @@ body {
 .button-start-shopping {
     width: 140px;
     height: 50px;
-    border: 2px solid #34495e;
-    float: left;
+    border: 2px solid #b5346e;;
+    float: center;
     text-align: center;
     cursor: pointer;
     position: relative;
     box-sizing: border-box;
     overflow: hidden;
-    margin: 0 0 40px 50px;
+    margin: 0 0 40px 0px;
 }
 
 .button-start-shopping a {
     font-family: arial;
     font-size: 16px;
-    color: #34495e;
+    color: #ffffff;
     text-decoration: none;
     line-height: 50px;
     transition: all .5s ease;
@@ -107,7 +107,7 @@ body {
     width: 140px;
     height: 50px;
     left: -140px;
-    background: #34495e;
+    background: #b5346e;
     position: absolute;
     transition: all .5s ease;
     z-index: 1;
